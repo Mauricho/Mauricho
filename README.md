@@ -1,6 +1,5 @@
 # <h1 align="center"> Mugni Juan Mauricio </h1>
 
-Estudiante de ingeniería.
 <!--
 **Mauricho/Mauricho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
